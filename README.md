@@ -13,7 +13,7 @@
 
 ## Creation
 
-You can create ports using [this](https://github.com/catppuccin/template) public template as a blueprint. However, the problem with this is that they leave a _small_ tag under the repos' name that says "generated from <template>". To avoid this follow these instructions:
+You can create ports using [this](https://github.com/catppuccin/template) public template as a blueprint. However, you shouldn't create them the traditional way (by clicking **Use this template**), because this leaves a _small_ tag under the repos' name that says `generated from <template>`. To avoid this, follow the instructions below:
 
 1. Create the repo and leave it empty
 2. Add this template as a remote: `git remote add template git@github.com:catppuccin/template.git`
