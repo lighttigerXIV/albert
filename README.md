@@ -11,6 +11,10 @@
     <a href="https://github.com/catppuccin/style-guide/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/style-guide?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
+<p align="center">
+	A guide on how to style and properly implement the Catppuccin palette for various things such as terminal emulators, user interfaces, code editors, etc...
+</p>
+
 # 🍉 Ports
 
 ## Creation
