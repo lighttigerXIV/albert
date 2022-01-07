@@ -34,7 +34,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 
 # 🦄 General Standard
 
-These are general use cases for most of the palette relevant for user interfaces. The `function` expresses a very vague use-case of a color and the` scope example` how it is generally used:
+These are general use cases for most of the palette relevant for user interfaces. The `function` expresses a very vague use-case of a color and the `scope example` how it is generally used:
 
 | Function     | Scope Examples                     | Color     |
 | ------------ | ---------------------------------- | --------- |
