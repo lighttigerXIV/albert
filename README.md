@@ -32,30 +32,38 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 -   Don't add health files (like `CODE_OF_CONDUCTS.md` or `SUPPORT.md`), those are organization-wide files stored [here](https://github.com/catppuccin/.github).
 -   Emojis are _the way_, feel free to use them as much as you want.
 
+# 🦄 General Standard
+
+These are general use cases for most of the palette relevant for user interfaces. The `function` expresses a very vague use-case of a color and the` scope example` how it is generally used:
+
+| Function     | Scope Examples                     | Color     |
+| ------------ | ---------------------------------- | --------- |
+| `base`       | `splits`; `sign columns`           | black0    |
+| `surface`    | `x`                                | black1    |
+| `top`        | `background`                       | black2    |
+| `overlay`    | `floating elements`; `cursor line` | black3    |
+| `standout`   | `searches`                         | black4    |
+| `subtle`     | `comments`                         | gray0     |
+| `active`     | `foreground`                       | white     |
+| `inactive`   | `x`                                | gray2     |
+| `projection` | `cursors`                          | rosewater |
+
 # 🎃 Terminals
 
 ## Main
 
 #### Normal
 
-| Scope     | Color     |
-| --------- | --------- |
-| `color0`  | gray0     |
-| `color1`  | red       |
-| `color2`  | green     |
-| `color3`  | yellow    |
-| `color4`  | blue      |
-| `color5`  | mauve     |
-| `color6`  | pink      |
-| `color7`  | white     |
-| `color8`  | gray1     |
-| `color9`  | maroon    |
-| `color10` | teal      |
-| `color11` | yellow    |
-| `color12` | lavender  |
-| `color13` | mauve     |
-| `color14` | pink      |
-| `color15` | rosewater |
+| Scope    | Color  |
+| -------- | ------ |
+| `color0` | gray0  |
+| `color1` | red    |
+| `color2` | green  |
+| `color3` | yellow |
+| `color4` | blue   |
+| `color5` | mauve  |
+| `color6` | pink   |
+| `color7` | white  |
 
 #### Bright
 
@@ -119,10 +127,6 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 | `mark2 background`     | pink   |
 | `mark3 foreground`     | black2 |
 | `mark3 background`     | sky    |
-
-# 🦊 User Interfaces
-
-(WIP)
 
 # 🍨 Code Editors
 
