@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/logos/500x500_circle.png" width="90" />
-  <h2 align="center">Style Guide</h2>
-</p>
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin's Style Guide
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
-<p align="center">A guide on how to style and develop elements using the Catppuccin color palette!</p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
+    <a href="https://github.com/catppuccin/style-guide/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/style-guide?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/style-guide/issues"><img src="https://img.shields.io/github/issues/catppuccin/style-guide?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/style-guide/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/style-guide?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 # 🍉 Ports
@@ -22,7 +24,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 
 ## Styling Rules
 
--   The name of the repo must be the simplest version of the app's name (e.g `nvim` instead of `NeoVim`)
+-   The name of the repo must be the simplest version of the app's name (e.g `style-guide` instead of `NeoVim`)
 -   Put the images under `assets/`. If there are a bunch of them consider [creating an empty branch](https://gist.github.com/joncardasis/e6494afd538a400722545163eb2e1fa5) (e.g. `assets`) and storing them there.
 -   Format the repo's description as "`<allusive emoji>` Vibrant pastel theme for App"
 -   Add `catppuccin` to the topics.
