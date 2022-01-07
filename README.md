@@ -36,7 +36,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 
 ## Main
 
-### Normal
+#### Normal
 
 | Scope     | Color     |
 | --------- | --------- |
@@ -57,7 +57,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 | `color14` | pink      |
 | `color15` | rosewater |
 
-### Bright
+#### Bright
 
 | Scope     | Color     |
 | --------- | --------- |
@@ -70,7 +70,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 | `color14` | pink      |
 | `color15` | rosewater |
 
-### Extended Colors
+#### Extended Colors
 
 | Scope     | Color    |
 | --------- | -------- |
@@ -79,7 +79,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 
 ## UI
 
-### Misc
+#### Misc
 
 | Scope         | Color     |
 | ------------- | --------- |
@@ -88,7 +88,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 | `urls`        | rosewater |
 | `cursor`      | rosewatet |
 
-### Window
+#### Window
 
 | Scope             | Color    |
 | ----------------- | -------- |
@@ -96,7 +96,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 | `inactive border` | black4   |
 | `bell border`     | yellow   |
 
-### Tabs
+#### Tabs
 
 | Scope                     | Color  |
 | ------------------------- | ------ |
