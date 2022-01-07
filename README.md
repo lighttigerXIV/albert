@@ -58,36 +58,36 @@ These are general use cases for most of the palette relevant for user interfaces
 
 #### Normal
 
-| Scope    | Color  |
-| -------- | ------ |
-| `color0` | gray0  |
-| `color1` | red    |
-| `color2` | green  |
-| `color3` | yellow |
-| `color4` | blue   |
-| `color5` | mauve  |
-| `color6` | pink   |
-| `color7` | white  |
+| Scope    | Color    |
+| -------- | -------- |
+| `color0` | gray0    |
+| `color1` | red      |
+| `color2` | green    |
+| `color3` | yellow   |
+| `color4` | blue     |
+| `color5` | pink     |
+| `color6` | lavender |
+| `color7` | white    |
 
 #### Bright
 
-| Scope     | Color     |
-| --------- | --------- |
-| `color8`  | gray1     |
-| `color9`  | maroon    |
-| `color10` | teal      |
-| `color11` | yellow    |
-| `color12` | lavender  |
-| `color13` | mauve     |
-| `color14` | pink      |
-| `color15` | rosewater |
+| Scope     | Color    |
+| --------- | -------- |
+| `color8`  | gray1    |
+| `color9`  | maroon   |
+| `color10` | teal     |
+| `color11` | yellow   |
+| `color12` | sky      |
+| `color13` | flamingo |
+| `color14` | mauve    |
+| `color15` | white    |
 
 #### Extended Colors
 
-| Scope     | Color    |
-| --------- | -------- |
-| `color16` | peach    |
-| `color17` | flamingo |
+| Scope     | Color     |
+| --------- | --------- |
+| `color16` | peach     |
+| `color17` | rosewater |
 
 ## UI
 
