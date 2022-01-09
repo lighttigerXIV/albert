@@ -106,7 +106,6 @@ These are general use cases for most of the palette relevant for user interfaces
 | `cursor`      | rosewatet |
 | `cursor text` | black2    |
 | `urls`        | rosewater |
-| `cursor`      | rosewatet |
 
 #### Window
 
