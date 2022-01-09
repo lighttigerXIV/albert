@@ -103,7 +103,7 @@ These are general use cases for most of the palette relevant for user interfaces
 
 | Scope         | Color     |
 | ------------- | --------- |
-| `cursor`      | rosewatet |
+| `cursor`      | rosewater |
 | `cursor text` | black2    |
 | `urls`        | rosewater |
 
