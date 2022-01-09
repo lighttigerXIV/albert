@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	A guide on how to properly style and implement the Catppuccin palette for various things such as terminal emulators, user interfaces, code editors, etc...
+	A guide on how to properly style and implement the Catppuccin palette on various things such as terminal emulators, user interfaces, code editors, etc...
 </p>
 
 # 🍉 Ports
