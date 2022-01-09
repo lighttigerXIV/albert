@@ -58,29 +58,29 @@ These are general use cases for most of the palette relevant for user interfaces
 
 #### Normal
 
-| Scope    | Color    |
-| -------- | -------- |
-| `color0` | gray0    |
-| `color1` | red      |
-| `color2` | green    |
-| `color3` | yellow   |
-| `color4` | blue     |
-| `color5` | pink     |
-| `color6` | lavender |
-| `color7` | white    |
+| Scope    | Color  |
+| -------- | ------ |
+| `color0` | gray0  |
+| `color1` | red    |
+| `color2` | green  |
+| `color3` | yellow |
+| `color4` | blue   |
+| `color5` | pink   |
+| `color6` | sky    |
+| `color7` | white  |
 
 #### Bright
 
-| Scope     | Color    |
-| --------- | -------- |
-| `color8`  | gray1    |
-| `color9`  | maroon   |
-| `color10` | teal     |
-| `color11` | yellow   |
-| `color12` | sky      |
-| `color13` | flamingo |
-| `color14` | mauve    |
-| `color15` | white    |
+| Scope     | Color  |
+| --------- | ------ |
+| `color8`  | gray1  |
+| `color9`  | red    |
+| `color10` | green  |
+| `color11` | yellow |
+| `color12` | blue   |
+| `color13` | pink   |
+| `color14` | sky    |
+| `color15` | white  |
 
 #### Extended Colors
 
