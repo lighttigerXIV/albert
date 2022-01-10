@@ -137,7 +137,7 @@ These are general use cases for most of the palette relevant for user interfaces
 | `mark2 foreground`     | black2 |
 | `mark2 background`     | pink   |
 | `mark3 foreground`     | black2 |
-| `mark3 background`     | sky    |
+| `mark3 background`     | teal    |
 
 # 🍨 Code Editors
 
