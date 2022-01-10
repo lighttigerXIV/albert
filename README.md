@@ -131,7 +131,7 @@ These are general use cases for most of the palette relevant for user interfaces
 | `foreground`           | white  |
 | `background`           | black2 |
 | `selection foreground` | white  |
-| `selection background` | black2 |
+| `selection background` | black4 |
 | `mark1 foreground`     | black2 |
 | `mark1 background`     | blue   |
 | `mark2 foreground`     | black2 |
