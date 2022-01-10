@@ -75,7 +75,7 @@ These are general use cases for most of the palette relevant for user interfaces
 | `color4` | blue   |
 | `color5` | pink   |
 | `color6` | sky    |
-| `color7` | white  |
+| `color7` | gray2  |
 
 #### Bright
 
