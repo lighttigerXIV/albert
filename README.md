@@ -31,7 +31,7 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 
 1. Create the repo and leave it empty
 2. Add this template as a remote: `git remote add template git@github.com:catppuccin/template.git`
-3. Pull from it: `git pull template main`
+3. Pull from it: `git pull template main --depth=1`
 4. Delete the remote: `git remote remove template`
 
 ## Styling Rules
