@@ -12,19 +12,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/lighttigerXIV/albert/tree/main/assets/Catppuccin.png"/>
+  <img src="https://github.com/lighttigerXIV/albert/blob/main/assets/Catppuccin.png"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/lighttigerXIV/albert/tree/main/assets/Catppuccin-Borderless.png"/>
+  <img src="https://github.com/lighttigerXIV/albert/blob/main/assets/Catppuccin-Borderless.png"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally
+1. Clone this repository
 2. Go to the downloaded folder
-3. Now open the terminal in that folder and type 
+3. Open the terminal in that folder and type 
 ` sudo cp Catppuccin.qss Catppuccin-Borderless.qss /usr/share/albert/org.albert.frontend.widgetboxmodel/themes/ ` 
 4. Now you can restart albert and select the theme in the settings
 
