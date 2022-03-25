@@ -31,7 +31,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [lighttigerXIV](https://github.com/lighttigerXIV)
 
 &nbsp;
 
